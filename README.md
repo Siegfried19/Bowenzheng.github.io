@@ -1,2 +1,2 @@
-# Bowenzheng.github.io
+# bowenzheng.github.io
 Personal webset
